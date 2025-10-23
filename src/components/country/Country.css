@@ -1,0 +1,9 @@
+.Country{
+    border: 2px solid yellow;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.Country-visited{
+    background-color: green;
+}
